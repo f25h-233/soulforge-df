@@ -1,0 +1,17 @@
+# runtime / local
+*.log
+logs/
+runs/
+.cache/
+.env
+*.key
+
+# dwarf fortress
+dfhack-config/
+soulforge_saves/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
